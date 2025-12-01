@@ -1,2 +1,6 @@
 zenich svedok
 nevesta svedok
+zenich mama
+zenich otec
+nevesta mama
+nevesta otec
